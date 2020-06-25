@@ -39,3 +39,20 @@
 .navbar-dark {
      background-color: #512DA8;
 }
+.reservecard-head {
+	background-color: #ffc107
+}
+
+.button {
+  background-color: #ffc107; /* Yellow */
+  border: none;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 10px;
+  cursor: pointer;
+}
+.button2 {
+	border-radius: 4px;
+}
