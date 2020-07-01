@@ -20,6 +20,7 @@ $carousel-item-height: 300px;
     min-height:400px;
 }
 
+
 .footer{
     background-color: $background-pale;
     @include zero-margin(20px, 0px);
@@ -73,3 +74,19 @@ body{
     bottom: 0px;
     z-index: 1;
     }
+#LoginHeader{
+	background-color:$background-dark
+}
+#reservetable{
+	background-color: #ffc107; /*Yellow*/
+}
+
+#Logincontent{
+	background-color:$background-pale;
+}
+#ReserveHeader{
+	background-color:$background-dark;
+}
+#Reservecontent{
+	background-color:$background-pale;
+}

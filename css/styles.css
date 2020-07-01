@@ -52,3 +52,19 @@ body {
   position: absolute;
   bottom: 0px;
   z-index: 1; }
+
+#LoginHeader {
+  background-color: #512DA8; }
+
+#reservetable {
+  background-color: #ffc107;
+  /*Yellow*/ }
+
+#Logincontent {
+  background-color: #D1C4E9; }
+
+#ReserveHeader {
+  background-color: #512DA8; }
+
+#Reservecontent {
+  background-color: #D1C4E9; }
